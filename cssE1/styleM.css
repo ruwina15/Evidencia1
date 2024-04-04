@@ -1,0 +1,45 @@
+
+.column1 {
+    background-color: #ec691f; /* Color azul */
+
+}
+
+.column2 {
+    background-color: #FFBF1B; /* Color rojo */
+}
+.figuras{
+    width: 110px;
+    height: 110px;
+    padding: auto;
+    margin-left: .1cm;
+    margin-right: .1cm;
+}
+
+.menu, .menu2, .menu4{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 30px 30px;
+    padding: 20px;
+    margin-left: 25%; 
+    
+}
+
+.menu1, .menu3, .menu5{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px 30px 30px 30px;
+    padding: 20px;
+    margin-left: 2%; 
+}
+
+.aside-derecho {
+    width: 200px; /* Ancho del aside */
+    height: 300px; /* Altura del aside */
+    background-color: #C57032; /* Color de fondo */
+    border-radius: 15px; /* Borde circular */
+    padding: 20px; /* Espacio interno entre el contenido y el borde */
+    position: absolute; /* Posicionamiento absoluto */
+    top: 27%; /* Distancia desde el borde superior */
+    right: 0%; /* Distancia desde el borde derecho */
+}
+
